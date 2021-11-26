@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="onboard_title_marginBottom">16dp</dimen>
+    <dimen name="onboard_title_size">34sp</dimen>
+    <dimen name="onboard_info_marginBottom">150dp</dimen>
+    <dimen name="onboard_info_marginStart">16dp</dimen>
+    <dimen name="onboard_info_margiEnd">16dp</dimen>
+    <dimen name="onboard_info_size">18sp</dimen>
+    <dimen name="onboard_button_height">70dp</dimen>
+    <dimen name="onboard_button_marginStart">50dp</dimen>
+    <dimen name="onboard_button_marginEnd">50dp</dimen>
+    <dimen name="onboard_button_marginBottom">50dp</dimen>
+
+
+</resources>

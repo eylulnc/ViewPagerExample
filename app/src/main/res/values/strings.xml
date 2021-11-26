@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">ViewPagerExample</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="onboarding_title"><![CDATA[Movies & Series]]></string>
+    <string name="onboard_info_text">The world\'s most popular and authoritative source for movies and series</string>
+    <string name="explore_collection">Explore Collection</string>
+    <string name="discover">Discover</string>
+    <string name="genres">Genres</string>
+    <string name="artists">Artists</string>
+    <string name="hello_artist_fragment">Hello Artist Fragment</string>
+    <string name="hello_genres_fragment">Hello Genres Fragment</string>
+    <string name="hello_discover_fragment">Hello Discover Fragment</string>
+</resources>
